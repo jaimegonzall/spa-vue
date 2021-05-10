@@ -1,4 +1,4 @@
-# spa-vue
+# prueba-tecnica-vue
 
 ## Project setup
 ```

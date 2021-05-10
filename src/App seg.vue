@@ -1,28 +1,21 @@
 <template>
-    <Sidebar slogan="My company slogan"/>
-
-  <div class="main">
-    <router-view/>
-  </div>
-  
+  <Main msg="Prueba técnica de Jaime G. Llistó"/>
+  <Sidebar slogan="My company slogan"/>
 </template>
 
 <script>
+import Main from './components/Main.vue'
 import Sidebar from './components/Sidebar.vue'
 
 export default {
   name: 'App',
   components: {
-    Sidebar
+    Main, Sidebar
   }
 }
 </script>
 
 <style>
-
-#nav a {font-weight: bold;color: #2c3e50;}
-#nav a.router-link-exact-active {color: #42b983;}
-
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap');
 
@@ -50,18 +43,6 @@ export default {
   color: var(--txt-color-1);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-.main{
-    position: absolute;
-    right: 0;
-    top: 0;
-    width: 70vw;
-    padding: 40px 60px;
-    background-color: var(--bg-c-primary);
-    display: flex;
-    flex-flow: wrap column;
-    justify-content: space-between;
 }
 
 </style>
