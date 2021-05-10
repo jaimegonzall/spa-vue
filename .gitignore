@@ -1,8 +1,8 @@
 .DS_Store
 node_modules
-copia-seguridad-1
-copia-seguridad-2
 /dist
+src\assets\background_1.tif
+src\assets\mobile-apps-concept-illustration.zip
 
 
 # local env files

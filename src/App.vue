@@ -1,9 +1,9 @@
 <template>
     <Sidebar slogan="My company slogan"/>
 
-  <div class="main">
+  <main class="main">
     <router-view/>
-  </div>
+  </main>
   
 </template>
 
@@ -20,8 +20,8 @@ export default {
 
 <style>
 
-#nav a {font-weight: bold;color: #2c3e50;}
-#nav a.router-link-exact-active {color: #42b983;}
+/* #nav a {font-weight: bold;color: #2c3e50;}
+#nav a.router-link-exact-active {color: #42b983;} */
 
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap');
@@ -45,11 +45,13 @@ export default {
   box-sizing: border-box;
 }
 
+
 #app {
   font-family: var(--main-font);
   color: var(--txt-color-1);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: var(--bg-c-primary);
 }
 
 .main{
@@ -58,10 +60,12 @@ export default {
     top: 0;
     width: 70vw;
     padding: 40px 60px;
-    background-color: var(--bg-c-primary);
     display: flex;
     flex-flow: wrap column;
     justify-content: space-between;
+    background-image: url("./assets/background_top.png"), url("./assets/background_bottom.png");
+    background-position: center top, center bottom;
+    background-repeat: no-repeat, no-repeat;
 }
 
 </style>

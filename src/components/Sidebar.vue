@@ -9,8 +9,6 @@
       <li><router-link to="/">Imagen</router-link></li>
       <li><router-link to="/datos">Datos</router-link></li>
       <li><router-link to="/graficos">Gráficos</router-link></li>
-
-      
     </ul>
 
     <ul class="sidebar--social">

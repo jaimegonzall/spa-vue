@@ -1,13 +1,14 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <Image msg="Mensaje de Image.vue"/>
-  </div>
+  <section>
+    <h1>Home View</h1>
+    <Image msg="Bienvenid@"/>
+  </section>
 </template>
 
 <script>
 // @ is an alias to /src
 import Image from '@/components/Image.vue'
+
 
 export default {
   name: 'Home',

@@ -10,7 +10,7 @@ const routes = [
   {
     path: '/datos',
     name: 'Datos',
-    /* component: Datos */
+    // component: Datos
     component: () => import('../views/Datos.vue')
   },
   {
