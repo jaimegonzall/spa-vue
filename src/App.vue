@@ -63,9 +63,9 @@ export default {
     display: flex;
     flex-flow: wrap column;
     justify-content: space-between;
-    background-image: url("./assets/background_top.png"), url("./assets/background_bottom.png");
+/*     background-image: url("./assets/background_top.png"), url("./assets/background_bottom.png");
     background-position: center top, center bottom;
-    background-repeat: no-repeat, no-repeat;
+    background-repeat: no-repeat, no-repeat; */
 }
 
 </style>

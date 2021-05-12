@@ -1,0 +1,382 @@
+[
+    {
+        "name": "Spain",
+        "topLevelDomain": [
+            ".es"
+        ],
+        "alpha2Code": "ES",
+        "alpha3Code": "ESP",
+        "callingCodes": [
+            "34"
+        ],
+        "capital": "Madrid",
+        "altSpellings": [
+            "ES",
+            "Kingdom of Spain",
+            "Reino de España"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 46438422,
+        "latlng": [
+            40.0,
+            -4.0
+        ],
+        "demonym": "Spanish",
+        "area": 505992.0,
+        "gini": 34.7,
+        "timezones": [
+            "UTC",
+            "UTC+01:00"
+        ],
+        "borders": [
+            "AND",
+            "FRA",
+            "GIB",
+            "PRT",
+            "MAR"
+        ],
+        "nativeName": "España",
+        "numericCode": "724",
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "es",
+                "iso639_2": "spa",
+                "name": "Spanish",
+                "nativeName": "Español"
+            }
+        ],
+        "translations": {
+            "de": "Spanien",
+            "es": "España",
+            "fr": "Espagne",
+            "ja": "スペイン",
+            "it": "Spagna",
+            "br": "Espanha",
+            "pt": "Espanha",
+            "nl": "Spanje",
+            "hr": "Španjolska",
+            "fa": "اسپانیا"
+        },
+        "flag": "https://restcountries.eu/data/esp.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union",
+                "otherAcronyms": [],
+                "otherNames": []
+            }
+        ],
+        "cioc": "ESP"
+    },
+    {
+        "name": "Greece",
+        "topLevelDomain": [
+            ".gr"
+        ],
+        "alpha2Code": "GR",
+        "alpha3Code": "GRC",
+        "callingCodes": [
+            "30"
+        ],
+        "capital": "Athens",
+        "altSpellings": [
+            "GR",
+            "Elláda",
+            "Hellenic Republic",
+            "Ελληνική Δημοκρατία"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 10858018,
+        "latlng": [
+            39.0,
+            22.0
+        ],
+        "demonym": "Greek",
+        "area": 131990.0,
+        "gini": 34.3,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "ALB",
+            "BGR",
+            "TUR",
+            "MKD"
+        ],
+        "nativeName": "Ελλάδα",
+        "numericCode": "300",
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "el",
+                "iso639_2": "ell",
+                "name": "Greek (modern)",
+                "nativeName": "ελληνικά"
+            }
+        ],
+        "translations": {
+            "de": "Griechenland",
+            "es": "Grecia",
+            "fr": "Grèce",
+            "ja": "ギリシャ",
+            "it": "Grecia",
+            "br": "Grécia",
+            "pt": "Grécia",
+            "nl": "Griekenland",
+            "hr": "Grčka",
+            "fa": "یونان"
+        },
+        "flag": "https://restcountries.eu/data/grc.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union",
+                "otherAcronyms": [],
+                "otherNames": []
+            }
+        ],
+        "cioc": "GRE"
+    },
+    {
+        "name": "Portugal",
+        "topLevelDomain": [
+            ".pt"
+        ],
+        "alpha2Code": "PT",
+        "alpha3Code": "PRT",
+        "callingCodes": [
+            "351"
+        ],
+        "capital": "Lisbon",
+        "altSpellings": [
+            "PT",
+            "Portuguesa",
+            "Portuguese Republic",
+            "República Portuguesa"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 10374822,
+        "latlng": [
+            39.5,
+            -8.0
+        ],
+        "demonym": "Portuguese",
+        "area": 92090.0,
+        "gini": 38.5,
+        "timezones": [
+            "UTC-01:00",
+            "UTC"
+        ],
+        "borders": [
+            "ESP"
+        ],
+        "nativeName": "Portugal",
+        "numericCode": "620",
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "pt",
+                "iso639_2": "por",
+                "name": "Portuguese",
+                "nativeName": "Português"
+            }
+        ],
+        "translations": {
+            "de": "Portugal",
+            "es": "Portugal",
+            "fr": "Portugal",
+            "ja": "ポルトガル",
+            "it": "Portogallo",
+            "br": "Portugal",
+            "pt": "Portugal",
+            "nl": "Portugal",
+            "hr": "Portugal",
+            "fa": "پرتغال"
+        },
+        "flag": "https://restcountries.eu/data/prt.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union",
+                "otherAcronyms": [],
+                "otherNames": []
+            }
+        ],
+        "cioc": "POR"
+    },
+    {
+        "name": "Italy",
+        "topLevelDomain": [
+            ".it"
+        ],
+        "alpha2Code": "IT",
+        "alpha3Code": "ITA",
+        "callingCodes": [
+            "39"
+        ],
+        "capital": "Rome",
+        "altSpellings": [
+            "IT",
+            "Italian Republic",
+            "Repubblica italiana"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 60665551,
+        "latlng": [
+            42.83333333,
+            12.83333333
+        ],
+        "demonym": "Italian",
+        "area": 301336.0,
+        "gini": 36.0,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "AUT",
+            "FRA",
+            "SMR",
+            "SVN",
+            "CHE",
+            "VAT"
+        ],
+        "nativeName": "Italia",
+        "numericCode": "380",
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "it",
+                "iso639_2": "ita",
+                "name": "Italian",
+                "nativeName": "Italiano"
+            }
+        ],
+        "translations": {
+            "de": "Italien",
+            "es": "Italia",
+            "fr": "Italie",
+            "ja": "イタリア",
+            "it": "Italia",
+            "br": "Itália",
+            "pt": "Itália",
+            "nl": "Italië",
+            "hr": "Italija",
+            "fa": "ایتالیا"
+        },
+        "flag": "https://restcountries.eu/data/ita.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union",
+                "otherAcronyms": [],
+                "otherNames": []
+            }
+        ],
+        "cioc": "ITA"
+    },
+    {
+        "name": "Malta",
+        "topLevelDomain": [
+            ".mt"
+        ],
+        "alpha2Code": "MT",
+        "alpha3Code": "MLT",
+        "callingCodes": [
+            "356"
+        ],
+        "capital": "Valletta",
+        "altSpellings": [
+            "MT",
+            "Republic of Malta",
+            "Repubblika ta' Malta"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 425384,
+        "latlng": [
+            35.83333333,
+            14.58333333
+        ],
+        "demonym": "Maltese",
+        "area": 316.0,
+        "gini": null,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [],
+        "nativeName": "Malta",
+        "numericCode": "470",
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "mt",
+                "iso639_2": "mlt",
+                "name": "Maltese",
+                "nativeName": "Malti"
+            },
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "de": "Malta",
+            "es": "Malta",
+            "fr": "Malte",
+            "ja": "マルタ",
+            "it": "Malta",
+            "br": "Malta",
+            "pt": "Malta",
+            "nl": "Malta",
+            "hr": "Malta",
+            "fa": "مالت"
+        },
+        "flag": "https://restcountries.eu/data/mlt.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union",
+                "otherAcronyms": [],
+                "otherNames": []
+            }
+        ],
+        "cioc": "MLT"
+    }
+]

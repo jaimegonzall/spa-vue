@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 # SPA CON VUE
-Ejercicio para la creación de una Single Page Application con una barra de navegación lateral fija, 3 secciones de información y representación de datos en tabla y gráficos.
+Ejercicio para la creación de una Single Page Application con una barra de navegación lateral fija, 3 secciones de información y representación de datos en tabla y gráficos. Usaremos la API [REST Countries](https://restcountries.eu/#api-endpoints-all).
 
 > Project setup, compiles and hot-reloads for development
 ```
@@ -26,7 +26,7 @@ npm run serve
 * Crear vistas.
 
 ### 3ª iteración
-* Importar datos de una BDD.
+* Importar datos de una API.
 * Mostrar datos en tabla.
 * Mostrar datos en gráfico de barras.
 
